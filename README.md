@@ -26,4 +26,17 @@ Included design patterns:
 - **LLM Gateway** – pattern for abstracting Azure OpenAI usage
 - **Secure Deployment** – Key Vault, APIM, Private Endpoints
 
+## Azure Services Used
+Azure OpenAI
+Azure AI Search
+Azure Cosmos DB
+Azure Key Vault
+Azure App Service / AKS
+Azure Blob Storage
 
+## Security & Compliance
+  Includes patterns for:
+- Role-based access control
+- Secure key management
+- Responsible AI principles
+- Private endpoint architecture
