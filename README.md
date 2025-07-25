@@ -1,5 +1,10 @@
 WIP
 
+We will discuess the below Azure AI arch blue-print diagram
+
+![azure_microservices_architecture-Microservice with AI](https://github.com/user-attachments/assets/870a7aae-cc3b-4af9-8b99-996a0ecd85e5)
+
+
 # azure-ai-foundry
 
 # 🔷 Azure AI Foundry
